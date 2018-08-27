@@ -1,0 +1,280 @@
+@font-face {
+  font-family: Merriweather;
+  src: url("assets/fonts/merriweather/Merriweather-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Merriweather;
+  src: url("../assets/fonts/merriweather/Merriweather-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Glober;
+  src: url("assets/fonts/glober/GloberBold.otf") format("opentype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Glober;
+  src: url("../assets/fonts/glober/GloberBold.otf") format("opentype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Glober;
+  src: url("assets/fonts/glober/GloberRegular.otf") format("opentype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Glober;
+  src: url("../assets/fonts/glober/GloberRegular.otf") format("opentype");
+  font-weight: normal;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font: normal 22px Glober;
+}
+
+#tiles-header {
+  margin: 50px 0 10px;
+  text-align: center;
+}
+
+p {
+  line-height: 1.7em;
+}
+
+header {
+  height: 60px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+header .righty {
+  float: right;
+  font-size: 14px;
+  margin-top: 11px;
+  width: 50%;
+}
+
+header .back {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+header .back img {
+  height: 40px;
+  opacity: 0.7;
+}
+
+header .back:hover img {
+  opacity: 1;
+}
+
+.subheader {
+  color: #777;
+  margin: 0 auto 40px;
+  text-align: center;
+  width: 60%;
+}
+
+.tiles {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.tiles .tile {
+  font-size: 32px;
+  font-weight: bold;
+  display: inline-block;
+  margin-bottom: 0px;
+  height: 500px;
+  position: relative;
+  width: 49%;
+}
+
+.tiles .tile .title {
+  color: #fff;
+  position: absolute;
+  width: 90%;
+  left: 5%;
+  bottom: 22px;
+  text-align: left;
+  z-index: 5;
+  text-shadow: 0 1px 5px rgba(0,0,0,0.9);
+}
+
+.tiles .tile:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 380px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.9));
+}
+
+.page-hero {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.page-hero .title {
+  height: 100%;
+  position: relative;
+}
+
+.page-hero h1 {
+  color: #fff;
+  font-size: 52px;
+  font-weight: bold;
+  position: absolute;
+  bottom: 40px;
+  width: 80%;
+  text-shadow: 0 1px 5px rgba(0,0,0,0.8);
+}
+
+.page-hero h1 .small {
+  font-size: 36px;
+  display: inline-block;
+  margin-top: 12px;
+}
+
+.page-hero video {
+  position: absolute;
+}
+
+.page-hero .shader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.5));
+}
+
+.sheet {
+  background: rgba(255,255,255,0.6);
+  color: #333;
+  padding: 60px 120px 0;
+  position: relative;
+  z-index: 500;
+}
+
+.sheet .fw {
+  margin-left: -140px;
+  margin-right: -140px;
+}
+
+.body img, .body video {
+  display: block;
+  margin: 20px auto 5px;
+  width: 100%;
+}
+
+.body h6 {
+  color: #999;
+  font-size: 24px;
+  font-weight: bold;
+  margin: 15px 0 30px;
+  text-align: center;
+}
+
+footer {
+  margin-top: 50px;
+  position: relative;
+}
+
+footer .container {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+footer .logo {
+  display: inline-block;
+  margin: 30px 0 15px;
+  width: 200px;
+}
+
+footer table {
+  font-size: 14px;
+  opacity: 0.5;
+  width: 300px;
+}
+
+footer table img {
+  height: 50px;
+  margin-right: 10px;
+}
+
+footer hr {
+  border-top: 1px solid rgba(0,0,0,0.1);
+  margin: 0;
+}
+
+footer .up {
+  background: #fff;
+  display: block;
+  margin: -20px auto 0;
+  text-align: center;
+  width: 80px;
+}
+
+footer .up img {
+  width: 40px;
+  height: 40px;
+  opacity: 0.3;
+}
+
+footer .up:hover img {
+  opacity: 1;
+}
+
+.carousel {
+  height: 500px;
+  margin: 20px 0 5px;
+}
+
+.carousel img {
+  display: block;
+  margin: 0 auto;
+}
+
+.carousel .slick-prev, .carousel .slick-next {
+  background: none;
+  border: none;
+  position: absolute;
+  top: 50%;
+  margin-top: -24px;
+  cursor: pointer;
+  z-index: 10;
+  outline: none;
+  opacity: 0.8;
+}
+
+.carousel .slick-prev:hover, .carousel .slick-next:hover {
+  opacity: 1;
+}
+
+.carousel .slick-prev img, .carousel .slick-next img {
+  height: 48px;
+  width: 48px;
+}
+
+.carousel .slick-prev {
+  left: -55px;
+}
+
+.carousel .slick-next {
+  right: -55px;
+}

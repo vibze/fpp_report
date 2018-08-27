@@ -1,0 +1,66 @@
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="../assets/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="../assets/main.css" />
+    <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="../assets/slick/slick/slick.css" />
+    <script type="text/javascript" src="../assets/slick/slick/slick.min.js"></script>
+
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, width=device-width">
+  </head>
+
+  <body>
+
+    <header class="header">
+      <div class="container">
+        <a href="../index.html" class="back">
+          <img src="../assets/images/back-white.png" />
+        </a>
+      </div>
+    </header>
+
+    <div class="page-hero" style="background-image: url({{ page.cover }}); width: 100%; height: 500px;">
+      <div class="shader"></div>
+      <div class="container">
+        <div class="title">
+          <h1>{{ page.title }}</h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="sheet body">
+        {{ content }}
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <hr/>
+
+        <a href="#" class="up">
+          <img src="../assets/images/up.png" />
+        </a>
+
+        <img class="logo" src="../assets/images/fpp-logo-big.png" />
+      </div>
+    </footer>
+
+    <script type="text/javascript">
+      $(".carousel").slick({
+        prevArrow: '<button type="button" class="slick-prev"><img src="../assets/images/prev.png" /></button>',
+        nextArrow: '<button type="button" class="slick-next"><img src="../assets/images/next.png" /></button>'
+      });
+
+      $(window).scroll(function(){
+        if ($(window).scrollTop() > 420) {
+          $('header .back img').attr('src', '../assets/images/back-black.png');
+        } else {
+          $('header .back img').attr('src', '../assets/images/back-white.png');
+        }
+      });
+    </script>
+  </body>
+</html>

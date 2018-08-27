@@ -1,0 +1,83 @@
+---
+# this is an empty front matter
+---
+
+<html>
+
+  <head>
+    <link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="assets/main.css" />
+
+    <meta name="viewport" content="initial-scale=1.0">
+  </head>
+
+  <body>
+
+
+    <div class="page-hero" style="width: 100%; height: 800px; background-image: url(assets/images/main-hero-1.jpg)">
+
+      <div class="shader"></div>
+
+      <video>
+      </video>
+
+      <div class="container">
+        <div class="title">
+          <h1 style="text-align: center; left: 10%;">
+            Отчет о деятельности Фонда Первого Президента Республики Казахстан – Елбасы<br/>
+            <span class="small">за 7 месяцев 2018 года</span>
+          </h1>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="sheet">
+        <p>
+          Стратегические задачи, поставленные в Послании народу Казахстана в
+          январе 2018 года, определили План работы Фонда, который сформирован
+          с учетом новых вызовов и возможностей внедрения Четвертой промышленной
+          революции.
+        </p>
+
+        <p>
+          В течение 7 месяцев Фондом проведено 57 мероприятий (69% от
+          запланированного на т.г.), где приняли участие порядка 49 000
+          человек, при этом информационный охват среди казахстанской
+          молодежи составил порядка 4 млн. человек.
+        </p>
+        <p>
+          Программы и проекты Фонда сконцентрированы на решение задач,
+          озвученных в Послании и программной статье «Болашаққа бағдар:
+          рухани жаңғыру».
+        </p>
+        <p>
+          Также в отчетном периоде, Фонд вносил свой вклад в празднование
+          20-летнего юбилея столицы – Астаны посредством реализации ряда
+          масштабных мероприятий внутри страны и за рубежом.
+        </p>
+      </div>
+    </div>
+
+    <section class="tiles container">
+      {% for page in site.pages %}
+      <a class="tile" href=".{{ page.url }}" style="background-image: url({{ page.thumb }}); background-size: cover;">
+        <div class="title">{{ page.title }}</div>
+      </a>
+      {% endfor %}
+    </section>
+
+    <footer>
+      <div class="container">
+        <hr/>
+
+        <a href="#" class="up">
+          <img src="assets/images/up.png" />
+        </a>
+
+        <img class="logo" src="assets/images/fpp-logo-big.png" />
+      </div>
+    </footer>
+
+  </body>
+</html>
