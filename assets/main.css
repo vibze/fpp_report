@@ -176,6 +176,18 @@ header .back:hover img {
   margin-right: -140px;
 }
 
+body.preview .body.full {
+  display: none;
+}
+
+body.preview .body.cut, .expand {
+  display: block;
+}
+
+.body.cut, .expand {
+  display: none;
+}
+
 .body img, .body video {
   display: block;
   margin: 20px auto 5px;

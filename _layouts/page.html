@@ -11,7 +11,7 @@
     <meta name="viewport" content="user-scalable=no, initial-scale=1.0, width=device-width">
   </head>
 
-  <body>
+  <body class="preview">
 
     <header class="header">
       <div class="container">
@@ -31,9 +31,14 @@
     </div>
 
     <div class="container">
-      <div class="sheet body">
+      <div class="sheet cut body">
+        <p>{{ page.cut }}</p>
+      </div>
+      <div class="sheet full body">
         {{ content }}
       </div>
+
+      <a class="expand">FFFF</a>
     </div>
 
     <footer>
@@ -41,7 +46,7 @@
         <hr/>
 
         <a href="#" class="up">
-          <img src="../assets/images/up.png" />
+          <img src="../assets/images/down.png" />
         </a>
 
         <img class="logo" src="../assets/images/fpp-logo-big.png" />
@@ -49,16 +54,29 @@
     </footer>
 
     <script type="text/javascript">
-      $(".carousel").slick({
-        prevArrow: '<button type="button" class="slick-prev"><img src="../assets/images/prev.png" /></button>',
-        nextArrow: '<button type="button" class="slick-next"><img src="../assets/images/next.png" /></button>'
-      });
-
       $(window).scroll(function(){
         if ($(window).scrollTop() > 420) {
           $('header .back img').attr('src', '../assets/images/back-black.png');
         } else {
           $('header .back img').attr('src', '../assets/images/back-white.png');
+        }
+      });
+
+      var body = $('body');
+      $('.up').click(function(e) {
+        e.preventDefault();
+
+        if (body.hasClass('preview')) {
+          body.removeClass('preview');
+
+          $(".carousel").slick({
+            prevArrow: '<button type="button" class="slick-prev"><img src="../assets/images/prev.png" /></button>',
+            nextArrow: '<button type="button" class="slick-next"><img src="../assets/images/next.png" /></button>'
+          });
+
+          $('.up img').attr('src', "../assets/images/up.png")
+        } else {
+          $("html, body").animate({ scrollTop: 0 }, "fast");
         }
       });
     </script>
