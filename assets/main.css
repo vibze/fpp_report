@@ -228,13 +228,12 @@ body.preview .body.full, body.preview footer .up {
 
 .expand img {
   display: inline-block;
-  margin-top: 5px;
   height: 26px;
   width: 50px;
 }
 
 footer {
-  margin-top: 50px;
+  margin-top: 80px;
   position: relative;
 }
 
@@ -268,20 +267,22 @@ footer hr {
 
 footer .up {
   background: #fff;
+  color: #000;
+  font-weight: bold;
   display: block;
-  margin: -20px auto 0;
+  margin: -42px auto 0;
   text-align: center;
-  width: 80px;
+  width: 120px;
 }
 
 footer .up img {
-  width: 40px;
-  height: 40px;
-  opacity: 0.3;
+  display: inline-block;
+  height: 26px;
+  width: 50px;
 }
 
-footer .up:hover img {
-  opacity: 1;
+footer .up:hover {
+  text-decoration: none;
 }
 
 .carousel {
