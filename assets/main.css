@@ -43,6 +43,15 @@ body {
   text-align: center;
 }
 
+h1 {
+  font-weight: bold;
+}
+
+.cut {
+  font-weight: bold;
+  text-align: justify;
+}
+
 p {
   line-height: 1.7em;
 }
@@ -69,12 +78,13 @@ header .back {
 }
 
 header .back img {
-  height: 40px;
-  opacity: 0.7;
+  height: 48px;
+  width: 48px;
 }
 
-header .back:hover img {
-  opacity: 1;
+.back {
+  position: fixed;
+  top: 56px;
 }
 
 .subheader {
@@ -163,11 +173,20 @@ header .back:hover img {
   background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.6));
 }
 
+.lead {
+  padding: 60px 120px 0;
+  text-align: center;
+}
+
+.lead h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
 .sheet {
   background: rgba(255,255,255,0.6);
   color: #333;
   padding: 60px 120px 0;
-  position: relative;
   z-index: 500;
 }
 
@@ -176,15 +195,11 @@ header .back:hover img {
   margin-right: -140px;
 }
 
-body.preview .body.full {
-  display: none;
-}
-
-body.preview .body.cut, .expand {
+body.preview .expand {
   display: block;
 }
 
-.body.cut, .expand {
+body.preview .body.full, body.preview footer .up {
   display: none;
 }
 
@@ -200,6 +215,22 @@ body.preview .body.cut, .expand {
   font-weight: bold;
   margin: 15px 0 30px;
   text-align: center;
+}
+
+.expand {
+  display: none;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  margin: 40px 0 0;
+}
+
+.expand img {
+  display: inline-block;
+  margin-top: 5px;
+  height: 26px;
+  width: 50px;
 }
 
 footer {
@@ -254,8 +285,29 @@ footer .up:hover img {
 }
 
 .carousel {
-  height: 500px;
+  height: 480px;
   margin: 20px 0 5px;
+  position: static;
+}
+
+.carousel .carousel-holder {
+  position: absolute;
+  height: 480px;
+  left: 0;
+  right: 0;
+}
+
+.carousel .swiper-slide {
+  height: 450px;
+  width: 870px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.carousel .swiper-slide a {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
 }
 
 .carousel img {
@@ -290,4 +342,22 @@ footer .up:hover img {
 
 .carousel .slick-next {
   right: -55px;
+}
+
+
+
+@-webkit-keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-5px);
+  }
+  60% {
+    transform: translateY(-2.5px);
+  }
+}
+
+.expand img {
+  -webkit-animation: bounce 2s infinite;
 }
