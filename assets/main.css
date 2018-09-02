@@ -199,7 +199,7 @@ body.preview .expand {
   display: block;
 }
 
-body.preview .body.full, body.preview footer .up {
+body.preview .full, body.preview footer .up {
   display: none;
 }
 
@@ -352,10 +352,10 @@ footer .up:hover {
     transform: translateY(0);
   }
   40% {
-    transform: translateY(-5px);
+    transform: translateY(5px);
   }
   60% {
-    transform: translateY(-2.5px);
+    transform: translateY(2.5px);
   }
 }
 
