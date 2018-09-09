@@ -47,6 +47,18 @@ h1 {
   font-weight: bold;
 }
 
+h2 {
+  font-weight: bold;
+  font-size: 36px;
+  margin: 50px 0 10px;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 28px;
+  margin: 40px 0 10px;
+}
+
 .cut {
   font-weight: bold;
   text-align: justify;
@@ -195,11 +207,7 @@ header .back img {
   margin-right: -140px;
 }
 
-body.preview .expand {
-  display: block;
-}
-
-body.preview .full, body.preview footer .up {
+.expandable-content {
   display: none;
 }
 
@@ -218,16 +226,35 @@ body.preview .full, body.preview footer .up {
 }
 
 .expand {
-  display: none;
+  display: block;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 20px;
+  overflow: visible;
   text-align: center;
   cursor: pointer;
-  margin: 40px 0 0;
+  margin: 10px 0 30px;
+  position: relative;
+}
+
+.expand:before {
+  content: '';
+  position: absolute;
+  top: 12px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: #ccc;
+  z-index: -1;
+}
+
+.expand span {
+  background: #fff;
+  padding: 0 15px;
 }
 
 .expand img {
-  display: inline-block;
+  display: none;
+  margin: 5px 0 0;
   height: 26px;
   width: 50px;
 }
@@ -352,10 +379,10 @@ footer .up:hover {
     transform: translateY(0);
   }
   40% {
-    transform: translateY(5px);
+    transform: translateY(-5px);
   }
   60% {
-    transform: translateY(2.5px);
+    transform: translateY(-2.5px);
   }
 }
 

@@ -4,6 +4,7 @@
     <link rel="stylesheet" type="text/css" href="../assets/bootstrap/css/bootstrap.css" />
     <link rel="stylesheet" type="text/css" href="../assets/main.css" />
     <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="../assets/js/expandable_content.js"></script>
 
     <link rel="stylesheet" type="text/css" href="../assets/swiper/swiper.min.css" />
     <script type="text/javascript" src="../assets/swiper/swiper.min.js"></script>
@@ -40,11 +41,6 @@
       </div>
     </div>
 
-    <a class="expand">
-      Подробнее<br/>
-      <img src="../assets/images/down.png" />
-    </a>
-
     <footer>
       <div class="container">
         <hr/>
@@ -66,51 +62,26 @@
           $("html, body").animate({ scrollTop: 0 }, "fast");
         });
 
-        $('.expand').click(function(e) {
-          body.removeClass('preview');
+        $('.swiper-slide').click(function(e) {
+          var allSlides = $(this).closest('.carousel').find('.swiper-slide');
+          var items = [];
+          var selected = 0;
+          var currentSrc = $(this).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
 
-          var swiper = new Swiper('.swiper-container', {
-            effect: 'coverflow',
-            grabCursor: true,
-            centeredSlides: true,
-            slidesPerView: 'auto',
-            coverflowEffect: {
-              rotate: 50,
-              stretch: 0,
-              depth: 100,
-              modifier: 1,
-              slideShadows : true,
-            },
-            pagination: {
-              el: '.swiper-pagination',
-            },
-          });
+          allSlides.each(function(i, el) {
+            var src = $(el).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
 
-          $('.swiper-slide').click(function(e) {
-            var allSlides = $(this).closest('.carousel').find('.swiper-slide');
-            var items = [];
-            var selected = 0;
-            var currentSrc = $(this).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
-
-            allSlides.each(function(i, el) {
-              var src = $(el).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
-
-              items.push({
-                src: src,
-                type:'image'
-              });
-
-              if (currentSrc == src) {
-                selected = i;
-              }
+            items.push({
+              src: src,
+              type:'image'
             });
 
-            console.log(items);
-            console.log(selected);
-            console.log(currentSrc);
-
-            $.fancybox.open(items, {}, selected);
+            if (currentSrc == src) {
+              selected = i;
+            }
           });
+
+          $.fancybox.open(items, {}, selected);
         });
       });
     </script>
