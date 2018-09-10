@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  "Индустриализация, внедрения новых технологий"
-thumb: "assets/images/page-1/thumb.jpg"
-cover: "../assets/images/page-1/cover.jpg"
+title:  "Индустриализация, внедрение новых технологий"
+thumb: "assets/images/industry/thumb.jpg"
+cover: "../assets/images/industry/cover.jpg"
 cut: "В рамках реализации программы «Цифровой Казахстан» Фондом проведено 6 проектов. Реализуются передовые программы в сфере цифровизации и развития стартап-экосистемы страны, создавая примеры лучшей практики не только в Казахстане, но в Центральной Азии в целом."
 ---
 
@@ -24,9 +24,6 @@ Wunder и другие.**
 для успешного продвижения Цифрового Казахстана. Фонд планирует увеличивать
 эти беспрецедентные результаты, закрепляя за Астаной статус новой
 стартап-столицы на карте мира.
-
-
-## Самые масштабные проекты
 
 
 ### Smart Zholy
@@ -51,14 +48,14 @@ Asia Summit. Всего в программе Smart Zholy приняли уча�
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-1.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-6.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-7.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-8.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
@@ -102,23 +99,8 @@ Studio, занимающейся разработкой образователь
 крупные компании. В этом году данная программа масштабирована на два города -
 Астану и Алматы, благодаря этому количество участников увеличилось в два раза.
 
-<div class="carousel" markdown="1"><div class="carousel-holder">
-<div class="swiper-container">
-
-<div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-1.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-6.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-7.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-8.jpg)"></div>
-</div>
-
-<div class="swiper-pagination"></div>
-</div>
-</div></div>
+<video poster="../assets/images/placeholder-video.png">
+</video>
 
 </div>
 
@@ -148,14 +130,13 @@ KazRoboProject-2018 была Любовь Дудченко, занявшая I �
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-1.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-6.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-7.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/page-1/smart-zholy-8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-8.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
