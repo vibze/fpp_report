@@ -130,13 +130,11 @@ KazRoboProject-2018 была Любовь Дудченко, занявшая I �
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-6.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-7.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/smart-zholy-8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/kazrobo-1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/kazrobo-2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/kazrobo-3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/kazrobo-4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/kazrobo-5.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
