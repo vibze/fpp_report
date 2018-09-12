@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "20-летие Астаны"
-thumb: "assets/images/page-5/thumb.jpg"
+thumb: "assets/images/anniversary/thumb.jpg"
 cover: "../assets/images/4-cover.jpg"
 ---
 

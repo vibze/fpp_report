@@ -64,6 +64,10 @@ h3 {
   text-align: justify;
 }
 
+.nowrap {
+  white-space: nowrap;
+}
+
 p {
   line-height: 1.7em;
 }

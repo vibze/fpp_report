@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Информационное освещение"
-thumb: "assets/images/6-thumb.jpg"
+thumb: "assets/images/coverage/thumb.jpg"
 cover: "../assets/images/6-cover.jpg"
 ---
 

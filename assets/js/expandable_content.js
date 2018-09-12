@@ -25,8 +25,8 @@ $(document).ready(function() {
             slidesPerView: 'auto',
             coverflowEffect: {
               rotate: 0,
-              stretch: 0,
-              depth: 100,
+              stretch: 5,
+              depth: 700,
               modifier: 1,
               slideShadows : true,
             },

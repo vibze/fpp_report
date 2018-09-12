@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Международное сотрудничество"
-thumb: "assets/images/4-thumb.jpg"
+thumb: "assets/images/international-cooperation/thumb.jpg"
 cover: "../assets/images/4-cover.jpg"
 ---
 

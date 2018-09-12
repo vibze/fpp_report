@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Гуманитарная и благотворительная помощь"
-thumb: "assets/images/5-thumb.jpg"
+thumb: "assets/images/humanitarian/thumb.jpg"
 cover: "../assets/images/5-cover.jpg"
 ---
 

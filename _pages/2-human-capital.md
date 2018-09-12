@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Человеческий капитал — основа модернизации"
-thumb: "assets/images/3-thumb.jpg"
+thumb: "assets/images/human-capital/thumb.jpg"
 cover: "../assets/images/3-cover.jpg"
 ---
 
