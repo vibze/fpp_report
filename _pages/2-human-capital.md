@@ -60,7 +60,7 @@ cover: "../assets/images/3-cover.jpg"
 
 ### Дни Фонда в регионах
 
-![](../assets/images/placeholder-infographic.png)
+![](../assets/images/human-capital/infographic-days.jpg)
 
 Дни Фонда Первого Президента Республики Казахстан – Елбасы в регионах являются
 масштабным проектом, в рамках которого особую значимость приобретает
