@@ -9,7 +9,7 @@ cover: "../assets/images/5-cover.jpg"
 социальных проектов для детей с особенными потребностями, малоимущих и других
 нуждающихся в поддержке групп населения.**
 
-![](../assets/images/placeholder-infographic.png)
+![](../assets/images/humanitarian/main-infographic.jpg)
 
 <div class="expandable-content" markdown="1">
 Примером таких социальных проектов можно выделить:  

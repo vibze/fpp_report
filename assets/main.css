@@ -110,6 +110,7 @@ header .righty {
   width: auto;
   height: auto;
   padding: 4px 16px 4px 4px;
+  text-decoration: none;
 }
 
 .back.fixed.sticky {

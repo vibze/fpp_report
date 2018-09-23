@@ -16,7 +16,7 @@ cut: "В рамках реализации программы «Цифровой
 Method PRO, Республиканский чемпионат по робототехнике «KazRoboProject»,
 Wunder и другие.**
 
-![](../assets/images/industry/data-infographic.jpg)
+![](../assets/images/industry/main-infographic.jpg)
 
 <div class="expandable-content" markdown="1">
 
@@ -98,6 +98,8 @@ Studio, занимающейся разработкой образователь
 Программа объединила талантливую молодежь, специалистов IT-индустрии и
 крупные компании. В этом году данная программа масштабирована на два города -
 Астану и Алматы, благодаря этому количество участников увеличилось в два раза.
+
+![](../assets/images/industry/method-infographic-2.jpg)
 
 <video poster="../assets/images/placeholder-video.png">
 </video>

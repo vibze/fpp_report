@@ -24,7 +24,7 @@ cover: "../assets/images/4-cover.jpg"
 
 ### Фотовыставка «Астана – жемчужина Великой степи»
 
-![](../assets/images/placeholder-infographic.png)
+![](../assets/images/anniversary/infographic-1.jpg)
 
 В честь 20-летнего юбилея Астаны Фондом был дан старт республиканской и
 международной фотовыставке «Астана – жемчужина Великой степи» и были изданы
