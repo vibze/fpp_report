@@ -74,7 +74,7 @@ p {
 
 header {
   height: 60px;
-  position: fixed;
+  position: absolute;
   width: 100%;
   top: 0;
   left: 0;
@@ -88,19 +88,33 @@ header .righty {
   width: 50%;
 }
 
-header .back {
+.back {
   display: inline-block;
+  position: absolute;
+  top: 56px;
   margin: 10px 0;
 }
 
-header .back img {
+.back img {
   height: 48px;
   width: 48px;
 }
 
-.back {
+.back.fixed {
+  background: rgba(0,0,0,0.8);
+  border-radius: 100px;
+  color: #fff;
+  position: absolute;
+  top: 560px;
+  left: 30px;
+  width: auto;
+  height: auto;
+  padding: 4px 16px 4px 4px;
+}
+
+.back.fixed.sticky {
   position: fixed;
-  top: 56px;
+  top: 20px;
 }
 
 .subheader {
