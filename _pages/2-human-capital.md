@@ -79,7 +79,27 @@ cover: "../assets/images/3-cover.jpg"
 
 ### Международный форум молодых учёных «Burabay Forum»
 
-![](../assets/images/placeholder-infographic.png)
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/9.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/10.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/11.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/borabai-gallery/12.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
 
 С 8 по 10 августа в городе Астана и в Акмолинской области прошел II
 Международный форум молодых ученых «Burabay Forum». Учёные и представители
@@ -97,7 +117,23 @@ cover: "../assets/images/3-cover.jpg"
 
 ### Церемония награждения лауреатов Фонда
 
-![](../assets/images/placeholder-infographic.png)
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/8.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
 
 Победы и успех нашей талантливой молодежи на международных площадках являются
 результатом эффективной работы Фонда. Получить звание Лауреата Фонда Перового

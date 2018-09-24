@@ -43,7 +43,7 @@ KazakhTV. Общий потенциальных охват показов - 10 �
 5 миллионов телезрителей.
 
 ![](../assets/images/coverage/3-infographic.jpg)
-###### Соц. сети
+###### Социальные сети
 
 По состоянию на 31 августа количество подписчиков аккаунта Фонда в социальной
 сети Facebook составляет 39 846 пользователей. За 8 месяцев 2018 года 262
@@ -51,8 +51,8 @@ KazakhTV. Общий потенциальных охват показов - 10 �
 просмотров (видеоролики и посты с фотографиями).  
 
 По состоянию на 31 августа количество подписчиков в социальной сети INSTAGRAM
-составляет 25 204 пользователей. За 8 месяцев 2018 года 260 постов и 67
-видеороликов собрали 115 017 лайков и 196 196 просмотров (видеоролики).
+составляет 25 204 пользователей. За 8 месяцев 2018 года 260 постов и <span class="nowrap">67
+видеороликов</span> собрали 115 017 лайков и 196 196 просмотров (видеоролики).
 
 За 8 месяцев в аккаунты Фонда в соцсетях привлечено 25 223 подписчика, в
 том числе в Instagram – 9 193, Facebook – 16 030.
@@ -73,5 +73,23 @@ KazakhTV. Общий потенциальных охват показов - 10 �
  публикуются «истории успеха» стипендиатов и грантополучателей Фонда. Особый
  интерес у аудитории вызывает инфографика о профессиях будущего, навыках и
  знаниях, востребованных в эру цифровизации.
+
+ <div class="video-gallery">
+ <video controls><source src='../assets/videos/fin_war_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/SSTJ-MULT3-RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/fin_ASTANA_RU_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/2016_05_18_Alzir_CUT_Short_CC_ru-Apple ProRes 422_logo1_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/03_EKONOM_RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/2016_12_14_KTK_25_RUS_EFIR_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/01_VERHOVENSTVO_RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/02_POLIGON_Preodolenie_Master_RUS_AIR_50mbps_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/Salem_Sagan_Tugan_Jer_Song_FULLHD_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/02_NACIDENT_RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/fin_SocMult_Zashita_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/fin_deportation_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/fin_SocMult_Zdrav_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/01_POLIGON_Atomnaya Zemlya_Master_RUS_AIR_50mbps_x264.mp4#t=0.5' type='video/mp4' /></video>
+<video controls><source src='../assets/videos/03_POLIGON_Apokalips_Master_RUS_AIR_50mbps_x264.mp4#t=0.5' type='video/mp4' /></video>
+</div>
 
 </div>

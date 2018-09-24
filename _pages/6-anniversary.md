@@ -2,7 +2,7 @@
 layout: page
 title:  "20-летие Астаны"
 thumb: "assets/images/anniversary/thumb.jpg"
-cover: "../assets/images/4-cover.jpg"
+cover: "../assets/images/anniversary/cover.jpg"
 ---
 
 **2018 год ознаменован празднованием 20-летнего юбилея нашей столицы Астаны.
@@ -20,6 +20,21 @@ cover: "../assets/images/4-cover.jpg"
 город мира», в ней приняли участие более 350 человек из 20 стран мира.
 На конференции обсуждались геополитические, исторические, экономические,
 дипломатические, социологические и прочие аспекты, связанные с 20-летием столицы.
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/5.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
 
 
 ### Фотовыставка «Астана – жемчужина Великой степи»

@@ -32,7 +32,7 @@ cover: "../assets/images/4-cover.jpg"
 </div>
 </div></div>
 
-Фондом было подписано 7 меморандумов о сотрудничестве с международными
+Фондом было подписано 8 меморандумов о сотрудничестве с международными
 авторитетными организациями: среди них Дом Азии (Casa Asia) при Правительстве
 Королевства Испания, Санкт-Петербургским государственным университетом,
 Казахстанско-немецким университетом и Германской службой академических
@@ -58,10 +58,27 @@ cover: "../assets/images/4-cover.jpg"
 Посольства Японии в РК, Министерства иностранных дел РК, дипломатического
 корпуса и авторитетных экспертов.   
 
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/7.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
 
 ### Презентация книги «Эра независимости»
 
-![](../assets/images/placeholder-image.png)
+![](../assets/images/international-cooperation/book-cover.png)
 
 Особое значение имеет работа по освещению и обсуждению книги Главы государства
 «Эра независимости». Фонд организовал презентации издания в Москве и
@@ -92,6 +109,21 @@ cover: "../assets/images/4-cover.jpg"
 Назарбаева, Министр иностранных дел Кайрат Абдрахманов, Министр труда и
 социальной защиты Мадина Абылкасымова, члены Правительства и депутаты Парламента.
 
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/afgan-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/afgan-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/afgan-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/afgan-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/afgan-gallery/5.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
 Мероприятие посетили высокие гости из других стран: Первая леди Армении Нуне
 Саркисян, Вице-Премьер-министр Кыргызстана Алтынай Омурбекова, Заместитель
 Премьер-министра Узбекистана Танзила Нарбаева, Министр по делам женщин
@@ -107,3 +139,84 @@ cover: "../assets/images/4-cover.jpg"
 женщин не становилась центральной ни на одной дискуссионной площадке.
 
 Мероприятие было организовано МИД РК при поддержке Фонда Первого Президента.
+
+
+### Институционные преобразования в правовой сфере
+
+
+#### Конференция по правовым вопросам МФЦА
+
+4 июля 2018г. Фондом Первого Президента – Елбасы в рамках официальной
+презентации Международного Финансового Центра «Астана» (МФЦА) в Назарбаев
+Центре была организована Конференция по правовым вопросам МФЦА. В мероприятии
+приняли участие Государственный секретарь РК Гульшара Абдикаликова,
+председатель Конституционного Совета РК Кайрат Мами, Председатель Верховного
+суда РК Жакып Асанов, Управляющий Международным Финансовым Центром "Астана"
+Кайрат Келимбетов, а также более 300 гостей, в том числе, представители
+министерств, посольств, международных арбитражных центров и судов, ведущих
+юридических и консалтинговых фирм и финансовых корпораций, а также другие
+лица, заинтересованные в услугах МФЦА , Суда МФЦА и МАЦ.
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/5.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
+
+#### Венецианская комиссия
+
+22-23 июня в г.Венеции (Италия) заместитель исполнительного директора И. Рогов
+принял участие в 115-м пленарном заседании Европейской комиссии за демократию
+через право (Венецианская комиссия). В рамках пленарного заседания состоялась
+встреча И. Рогова с Президентом Венецианской Комиссии г-ном Джанни Букиккио.
+В ходе беседы стороны обсудили возможности более тесного сотрудничества
+Республики Казахстан с Венецианской комиссией и реализации совместных проектов
+ в области пропаганды верховенства права и государственности среди молодежи,
+ поддержки креативных инициатив в области правового развития страны. И. Рогов
+ особо отметил важную роль Фонда в продвижении инициатив Елбасы по построению
+ сильного демократического, правового государства.
+
+ <div class="carousel" markdown="1"><div class="carousel-holder">
+ <div class="swiper-container">
+
+ <div class="swiper-wrapper">
+ <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/1.jpg)"></div>
+ <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/2.jpg)"></div>
+ <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/3.jpg)"></div>
+ </div>
+
+ <div class="swiper-pagination"></div>
+ </div>
+ </div></div>
+
+
+#### Международная конференция «Конституция: воплощение ценностей верховенства права, гражданского общества и современного государства»
+
+28 августа в Назарбаев Центре состоялась международная конференция
+«Конституция: воплощение ценностей верховенства права, гражданского общества
+и современного государства», посвященная Дню Конституции Республики Казахстан.
+Мероприятие было организовано в партнерстве с Конституционным Советом РК,
+Европейской комиссией за демократию через право Совета Европы (Венецианской
+  комиссией), Офисом программ ОБСЕ в Астане и ведущими университетами столицы.
+
+В её работе приняли участие Государственный секретарь РК Абдыкаликова Г. Н.,
+руководители государственных структур Казахстана, представители авторитетных
+международных организаций, органов конституционного контроля и известные
+учёные-правоведы из 20 стран.  
+
+В рамках конференции состоялась презентация нового Научно-практического
+комментария Конституции РК, а также награждение победителей премии «Лучший
+молодой юрист – 2018» и конкурса «Эссе по вопросам верховенства Конституции и
+конституционного патриотизма».
+
+</div>

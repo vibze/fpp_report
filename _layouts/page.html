@@ -20,9 +20,11 @@
 
     <header class="header">
       <div class="container">
+        <!--
         <a href="../index.html#articles" class="back">
           <img src="../assets/images/back-white.png" />
         </a>
+      -->
       </div>
     </header>
 
@@ -67,25 +69,27 @@
         });
 
         $('.swiper-slide').click(function(e) {
-          var allSlides = $(this).closest('.carousel').find('.swiper-slide');
-          var items = [];
-          var selected = 0;
-          var currentSrc = $(this).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
+          if (!$(this).hasClass('video')) {
+            var allSlides = $(this).closest('.carousel').find('.swiper-slide');
+            var items = [];
+            var selected = 0;
+            var currentSrc = $(this).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
 
-          allSlides.each(function(i, el) {
-            var src = $(el).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
+            allSlides.each(function(i, el) {
+              var src = $(el).css('background-image').replace('url(','').replace(')','').replace(/\"/gi, "");
 
-            items.push({
-              src: src,
-              type:'image'
+              items.push({
+                src: src,
+                type:'image'
+              });
+
+              if (currentSrc == src) {
+                selected = i;
+              }
             });
 
-            if (currentSrc == src) {
-              selected = i;
-            }
-          });
-
-          $.fancybox.open(items, {}, selected);
+            $.fancybox.open(items, {}, selected);
+          }
         });
 
         $(window).scroll(function(e) {

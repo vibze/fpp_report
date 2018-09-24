@@ -59,6 +59,11 @@ h3 {
   margin: 40px 0 10px;
 }
 
+h4 {
+  font-weight: bold;
+  margin: 30px 0 10px;
+}
+
 .cut {
   font-weight: bold;
   text-align: justify;
@@ -68,7 +73,7 @@ h3 {
   white-space: nowrap;
 }
 
-p {
+p, ul {
   line-height: 1.7em;
 }
 
@@ -116,6 +121,7 @@ header .righty {
 .back.fixed.sticky {
   position: fixed;
   top: 20px;
+  z-index: 100;
 }
 
 .subheader {
@@ -333,20 +339,20 @@ footer .up:hover {
 }
 
 .carousel {
-  height: 480px;
+  height: 580px;
   margin: 20px 0 5px;
   position: static;
 }
 
 .carousel .carousel-holder {
   position: absolute;
-  height: 480px;
+  height: 580px;
   left: 0;
   right: 0;
 }
 
 .carousel .swiper-slide {
-  height: 450px;
+  height: 550px;
   width: 870px;
   background-size: cover;
   background-position: center;
@@ -392,6 +398,10 @@ footer .up:hover {
   right: -55px;
 }
 
+.carousel.video { height: 380px; }
+.carousel.video .carousel-holder { height: 380px; }
+.carousel.video .swipe-slide { height: 350px; }
+
 
 
 @-webkit-keyframes bounce {
@@ -408,4 +418,34 @@ footer .up:hover {
 
 .expand img {
   -webkit-animation: bounce 2s infinite;
+}
+
+
+.fancybox-button--arrow_right {
+  transform: scale(2, 2);
+  right: 30px !important;
+}
+
+.fancybox-button--arrow_left {
+  transform: scale(2, 2);
+  left: 30px !important;
+}
+
+.fancybox-toolbar {
+  transform: scale(2, 2);
+  top: 20px !important;
+  right: 45px !important;
+}
+
+.video-gallery {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.video-gallery video {
+  display: block;
+  height: 200px;
+  width: 49.5%;
 }
