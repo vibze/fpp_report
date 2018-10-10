@@ -6,6 +6,11 @@ $(document).ready(function() {
         expandToggle = $('<a class="expand"><span>Развернуть</span><br/><img src="../assets/images/down.png" /></a>'),
         swiperContainer = $('> .carousel .swiper-container', container).fadeIn();
 
+    var toggle = container.data("toggle");
+    if (!toggle) {
+      toggle = "Свернуть";
+    }
+
     expandToggle.insertAfter(container);
     expandToggle.click(function() {
       if (expanded) {
@@ -15,7 +20,7 @@ $(document).ready(function() {
         container.slideUp();
       } else {
         expanded = true;
-        $('span', expandToggle).text('Свернуть');
+        $('span', expandToggle).text(toggle);
         swiperContainer.hide();
         container.slideDown(function(){
           swiperContainer.fadeIn();
