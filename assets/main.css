@@ -73,8 +73,12 @@ h4 {
   white-space: nowrap;
 }
 
-p, ul {
+p, ul, ol {
   line-height: 1.7em;
+}
+
+ol li {
+  margin-bottom: 0.5em;
 }
 
 header {
