@@ -5,7 +5,7 @@ thumb: "assets/images/humanitarian/thumb.jpg"
 cover: "../assets/images/humanitarian/cover.jpg"
 ---
 
-**Продолжая работу по формированию инклюзивного общества, Фонд организовал 14
+**Продолжая работу по формированию инклюзивного общества, Фонд организовал 15
 социальных проектов для детей с особенными потребностями, малоимущих и других
 нуждающихся в поддержке групп населения.**
 
@@ -16,19 +16,19 @@ cover: "../assets/images/humanitarian/cover.jpg"
 Можно выделить следующие яркие социальные проекты и мероприятия:
 
 
-### Жаңа көзқарас
+### <span class="korinna">Жаңа көзқарас</span>
 
-Совместно с Посольством Франции в Республике Казахстан был организован уникальный проект «Жаңа көзқарас». В рамках этой инициативы был проведён мастер-класс известного французского фотохудожника Эрика Ваззолера. Результатом стала **фотовыставка работ воспитанников специализированных школ-интернатов для детей с синдроном Дауна**.
+Совместно с Посольством Франции в Республике Казахстан был организован уникальный проект <span class="korinna">«Жаңа көзқарас»</span>. В рамках этой инициативы был проведён мастер-класс известного французского фотохудожника Эрика Ваззолера. Результатом стала **фотовыставка работ воспитанников специализированных школ-интернатов для детей с синдроном Дауна**.
 
 <div class="carousel" markdown="1"><div class="carousel-holder">
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/kozkaras-gallery/6.jpg)"></div>
 </div>
 
@@ -37,11 +37,25 @@ cover: "../assets/images/humanitarian/cover.jpg"
 </div></div>
 
 
-### Детские паралимпийские старты «Жеңістерге бірге!»
+### Детские паралимпийские старты <span class="korinna">«Жеңістерге бірге!»</span>
 
-Вторые детские паралимпийские старты «Жеңістерге бірге!». В этих состязаниях приняли участие более **500** ребят из города Астана и восьми областей Казахстана.
+Вторые детские паралимпийские старты <span class="korinna">«Жеңістерге бірге!»</span>. В этих состязаниях приняли участие более **500** ребят из города Астана и восьми областей Казахстана.
 
 Основной целью Паралимпийских стартов является популяризация и развитие адаптивной физической культуры, развитие новых коммуникативных навыков в сфере инклюзивного образования.
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/paralympic-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/paralympic-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/paralympic-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/humanitarian/paralympic-gallery/4.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
 
 
 ### V детский культурно-спрортивный фестиваль мастер-классов «Аман келешек»

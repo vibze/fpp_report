@@ -27,9 +27,17 @@ cover: "../assets/images/anniversary/cover.jpg"
 <div class="swiper-wrapper">
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/4.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/9.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/10.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/11.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/12.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/13.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/astana-gallery/14.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
@@ -68,11 +76,11 @@ cover: "../assets/images/anniversary/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition-gallery/6.jpg)"></div>
 </div>
 
@@ -93,15 +101,6 @@ cover: "../assets/images/anniversary/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/1.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/6.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/7.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/8.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/9.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/10.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/11.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/anniversary/exhibition2-gallery/12.jpg)"></div>

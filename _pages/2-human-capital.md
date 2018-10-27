@@ -19,7 +19,7 @@ cover: "../assets/images/human-capital/cover.jpg"
 Акселерационные IT-проекты, хакатоны, научно-практические конференции и форумы,
 семинары и мастер-классы – благодаря программам и грантам Фонда, молодые ученые
 смогли сделать свои первые открытия, пройти стажировку в лучших научных центрах
-мира и наладить контакты с международным научным сообществом. Всего за 8
+мира и наладить контакты с международным научным сообществом. Всего за 9
 месяцев организовано и проведено **29 мероприятий**.  
 
 ### SciNet.kz
@@ -41,9 +41,7 @@ cover: "../assets/images/human-capital/cover.jpg"
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/scinet-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/scinet-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/scinet-gallery/3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/scinet-gallery/4.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/scinet-gallery/5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/scinet-gallery/6.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
@@ -53,11 +51,29 @@ cover: "../assets/images/human-capital/cover.jpg"
 
 ### Конкурс Фонда Н. Назарбаева среди школьников
 
+**40 школьников отправились в университет Крэнфилда (Великобритания)
+на учебно-ознакомительную стажировку**.
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/krenfold-gallery/6.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
 Совместно с Министерством юстиции РК был проведен республиканский конкурс в
 области авиатранспортной инженерии среди школьников в возрасте 16-18 лет. В
-июле т.г. в Назарбаев Центре был проведен отборочный тур. **40 школьников
-отправились в университет Крэнфилда (Великобритания) на учебно-ознакомительную
-стажировку**.
+июле т.г. в Назарбаев Центре был проведен отборочный тур.
 
 Во время стажировки ребята получили теоретические и практические знания о
 принципах работы и проектированию авиационной и другой техники, приборостроению.
@@ -68,7 +84,7 @@ cover: "../assets/images/human-capital/cover.jpg"
 Стажировка завершилась экскурсией по Лондону и Кэмбриджу.
 По словам ребят они получили бесценный опыт и полезные знания.
 
-Со – организаторы: Назарбаев университет и университет Крэнфилда. Партнеры:
+Организаторы: Назарбаев университет и университет Крэнфилд. Партнеры:
 Национальный перевозчик Air Astana и Корпоративный фонд «Samruk – Kazyna Trust».
 
 
@@ -83,8 +99,8 @@ cover: "../assets/images/human-capital/cover.jpg"
 области образования и культуры.
 
 Поддерживая передовые тренды, Фонд организовал тренинги "Блокчейн - прорывные
-технологии" и «Програмирование - Method Pro» в Северо-Казахстанской и
-Жамбылской областях, эти занятия посетило более **3 500 студентов**.
+технологии" и «Програмирование - Method Pro» в Северо-Казахстанской,
+Жамбылской и Восточно-Казахстанской областях, эти занятия посетило более **3 500 студентов**.
 
 Деятельность Фонда в регионах дает возможность раскрыть потенциал молодежи
 путем вовлечения их в такие проекты Фонда, как ярмарка социальных идей, ряд
@@ -136,6 +152,19 @@ cover: "../assets/images/human-capital/cover.jpg"
 
 ### Международный форум молодых учёных «Burabay Forum»
 
+С 8 по 10 августа в городе Астана и в Акмолинской области прошел II
+Международный форум молодых ученых «Burabay Forum». Учёные и представители
+государственных органов обсудили развитие взаимодействия Казахстана и стран
+СНГ в нескольких направлениях: сельское хозяйство, сотрудничество в сферах
+науки, культуры, туризма, а также наукоёмких технологий.
+
+В этом году в Форуме приняло участие более **100** ученых, среди них **27** зарубежных
+(Россия, Литва, Беларусь, Армения, Азербайджан, Узбекистан, Кыргызстан, Таджикистан).
+
+Цель форума - предоставить возможность молодым учёным обмениваться информацией,
+инициировать и реализовывать совместные международные научные проекты,
+коммерциализировать результаты научных изысканий.
+
 <div class="carousel" markdown="1"><div class="carousel-holder">
 <div class="swiper-container">
 
@@ -157,19 +186,6 @@ cover: "../assets/images/human-capital/cover.jpg"
 <div class="swiper-pagination"></div>
 </div>
 </div></div>
-
-С 8 по 10 августа в городе Астана и в Акмолинской области прошел II
-Международный форум молодых ученых «Burabay Forum». Учёные и представители
-государственных органов обсудили развитие взаимодействия Казахстана и стран
-СНГ в нескольких направлениях: сельское хозяйство, сотрудничество в сферах
-науки, культуры, туризма, а также наукоёмких технологий.
-
-В этом году в Форуме приняло участие более **100** ученых, среди них **27** зарубежных
-(Россия, Литва, Беларусь, Армения, Азербайджан, Узбекистан, Кыргызстан, Таджикистан).
-
-Цель форума - предоставить возможность молодым учёным обмениваться информацией,
-инициировать и реализовывать совместные международные научные проекты,
-коммерциализировать результаты научных изысканий.
 
 
 ### Международный Симпозиум молодых ученых «Кызылжар-2018»
@@ -211,24 +227,6 @@ cover: "../assets/images/human-capital/cover.jpg"
 
 
 ### Церемония награждения лауреатов Фонда
-
-<div class="carousel" markdown="1"><div class="carousel-holder">
-<div class="swiper-container">
-
-<div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/1.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/2.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/3.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/6.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/7.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/awards-gallery/8.jpg)"></div>
-</div>
-
-<div class="swiper-pagination"></div>
-</div>
-</div></div>
 
 Победы и успех нашей талантливой молодежи на международных площадках являются
 результатом эффективной работы Фонда. Получить звание Лауреата Фонда Перового

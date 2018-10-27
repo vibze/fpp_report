@@ -72,8 +72,8 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/4.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/memorandum-gallery/5.jpg)"></div>
@@ -96,6 +96,20 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 
 Участники проведённой дискуссии сошлись во мнении о том, что необходимо продолжать диалог с экспертным сообществом, а также молодежными объединениями по вопросам международной безопасности.
 
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/4.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
 
 ### I Международная Модель ООН Центральной Азии
 
@@ -111,8 +125,8 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 
 На конференцию приехали более **300 делегатов и наблюдателей со всего Казахстана, а также из России, Пакистана, Германии, Индии, Азербайджана, Бангладеша, Кыргызстана, Афганистана, Сербии, Узбекистана и т.д.**
 
-<video controls>
-  <source src="../assets/videos/UN.mp4#t=0.5" type="video/mp4" />
+<video controls poster="../assets/videos/UN.png">
+  <source src="../assets/videos/UN.mp4" type="video/mp4" />
 </video>
 
 В рамках конференции прошли обсуждения таких глобальных вызовов, как **детский труд, кибератаки, проблемы беженцев, религиозная нетерпимость и др.** Решение для каждого из вышеуказанных вопросов принимается членами соответствующих органов ООН, таких как **Совет Безопасности, Генеральная Ассамблея, UNICEF, ECOSOC** и т.д. согласно компетенции и квалификации.
@@ -163,12 +177,12 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/6.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/4.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/5.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/book-gallery/6.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
@@ -242,11 +256,11 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/mfca-gallery/5.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
@@ -271,8 +285,8 @@ cover: "../assets/images/international-cooperation/cover.jpg"
  <div class="swiper-container">
 
  <div class="swiper-wrapper">
- <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/1.jpg)"></div>
  <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/2.jpg)"></div>
+ <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/1.jpg)"></div>
  <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/venezia-gallery/3.jpg)"></div>
  </div>
 

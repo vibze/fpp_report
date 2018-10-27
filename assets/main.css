@@ -32,6 +32,18 @@
   font-weight: normal;
 }
 
+@font-face {
+  font-family: Korinna;
+  src: url("../assets/fonts/korinna/Korinna.kz.ttf") format("truetype");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: Korinna;
+  src: url("../assets/fonts/korinna/Korinna.kz Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
 body {
   background: #fff;
   color: #000;
@@ -255,6 +267,10 @@ header .righty {
   text-align: center;
 }
 
+span.korinna {
+  font-family: Korinna;
+}
+
 .expand {
   display: block;
   font-weight: bold;
@@ -450,6 +466,7 @@ footer .up:hover {
 
 .video-gallery video {
   display: block;
-  height: 200px;
+  height: 230px;
+  margin: 0;
   width: 49.5%;
 }

@@ -48,22 +48,15 @@ cover: "../assets/images/6-cover.jpg"
 Таким образом, с целью качественного информационного освещения деятельности Фонда в 2018 году пресс-службой используются **лучшие мировые практики модернизации корпоративных аккаунтов путем мониторинга трендсетторов нововведений и их адаптации к социальным медиа Фонда**.
 
 
- <div class="video-gallery">
- <video controls><source src='../assets/videos/fin_war_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/SSTJ-MULT3-RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/fin_ASTANA_RU_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/2016_05_18_Alzir_CUT_Short_CC_ru-Apple ProRes 422_logo1_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/03_EKONOM_RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/2016_12_14_KTK_25_RUS_EFIR_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/01_VERHOVENSTVO_RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/02_POLIGON_Preodolenie_Master_RUS_AIR_50mbps_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/Salem_Sagan_Tugan_Jer_Song_FULLHD_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/02_NACIDENT_RUS_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/fin_SocMult_Zashita_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/fin_deportation_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/fin_SocMult_Zdrav_russ_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/01_POLIGON_Atomnaya Zemlya_Master_RUS_AIR_50mbps_x264.mp4#t=0.5' type='video/mp4' /></video>
-<video controls><source src='../assets/videos/03_POLIGON_Apokalips_Master_RUS_AIR_50mbps_x264.mp4#t=0.5' type='video/mp4' /></video>
+<div class="video-gallery">
+<video poster="../assets/videos/16_december.png" controls><source src='../assets/videos/16_december.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/20vek.png" controls><source src='../assets/videos/20vek.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/25years.png" controls><source src='../assets/videos/25years.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/alzhir.png" controls><source src='../assets/videos/alzhir.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/history_photo.png" controls><source src='../assets/videos/history_photo.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/poligon.png" controls><source src='../assets/videos/poligon.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/toi_zhiry.png" controls><source src='../assets/videos/toi_zhiry.mp4' type='video/mp4' /></video>
+<video poster="../assets/videos/war.png" controls><source src='../assets/videos/war.mp4' type='video/mp4' /></video>
 </div>
 
 </div>

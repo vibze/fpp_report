@@ -18,8 +18,8 @@ cut: "В рамках реализации программы «Цифровой
 Фонд Первого Президента всего за один год закрепил за собой лидирующие позиции
 в поддержке процесса цифровизации страны с помощью собственных уникальных
 проектов: **Smart Zholy, Method PRO**, Республиканский чемпионат по робототехнике
-**«KazRoboProject», Wunder** и другие. Все это создает целую экосистему странового
-масштаба, в которой соединены множество элементов, которые все вместе помогают
+**«KazRoboProject», Wunder** и другие. Все это создает целую экосистему
+странового масштаба со множеством элементов, которые все вместе помогают
 развивать Цифровой Казахстан.
 
 Фонд планирует масштабировать эти беспрецедентные результаты, чтобы закрепить
@@ -67,9 +67,7 @@ cut: "В рамках реализации программы «Цифровой
 ![](../assets/images/industry/wunder-infographic.jpg)
 
 <div class="expandable-content" markdown="1">
-Курс разработан на примере лучших онлайн-школ (MIT online lectures, Coursera,
-Udacity). Цель - внедрить современное и востребованное программирование в
-каждую школу Казахстана.
+Курс разработан компанией Intellection Studio, с использованием опыта лучших онлайн-школ (MIT online lectures, Coursera, Udacity). Цель проекта – в каждой школе Казахстана внедрить занятия, на которых ученики смогут получать знания о современных и востребованных методах программирования.
 
 В рамках программы Smart Zholy были организованы встречи с международными инвесторами: **привлечены инвестиции в размере 32 млн. тенге ($90 000)**. Сингапурская компания Saturday Kids профинансирует казахстанский стартап Intellection Studio, занимающийся разработкой образовательных IT-программ для школьников и студентов.
 
@@ -124,6 +122,9 @@ IT-индустрии и крупные компании.**
 <div class="swiper-slide" style="background-image: url(../assets/images/industry/method-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/industry/method-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/industry/method-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/method-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/method-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/method-gallery/6.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
