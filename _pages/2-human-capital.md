@@ -19,8 +19,8 @@ cover: "../assets/images/human-capital/cover.jpg"
 Акселерационные IT-проекты, хакатоны, научно-практические конференции и форумы,
 семинары и мастер-классы – благодаря программам и грантам Фонда, молодые ученые
 смогли сделать свои первые открытия, пройти стажировку в лучших научных центрах
-мира и наладить контакты с международным научным сообществом. Всего за 9
-месяцев организовано и проведено **29 мероприятий**.  
+мира и наладить контакты с международным научным сообществом. Всего за 10
+месяцев организовано и проведено **31 мероприятий**.  
 
 ### SciNet.kz
 
@@ -31,7 +31,7 @@ cover: "../assets/images/human-capital/cover.jpg"
 ![](../assets/images/human-capital/infographic-scinet.jpg)
 
 Силами молодых учёных-менторов, получивших образование в лучших университетах
-мира, созданы **29 видео-уроков по математике, химии, физики и биологии** на
+мира, создан **91 видео-урок по математике, химии, физики и биологии** на
 казахском и русском языках, ролики доступны для подписчиков на Youtube.
 
 <div class="carousel" markdown="1"><div class="carousel-holder">
@@ -79,10 +79,8 @@ cover: "../assets/images/human-capital/cover.jpg"
 принципах работы и проектированию авиационной и другой техники, приборостроению.
 Кроме того, они учились управлять самолётом с помощью симуляторов, получили опыт
 свободного падения в аэродинамической трубе, участвовали в различных спортивных
-мероприятиях, организованных специально для ребят представителями
+мероприятиях, организованных специально для них представителями
 аэрокосмической школы. Семинары проводили опытные педагоги.
-Стажировка завершилась экскурсией по Лондону и Кэмбриджу.
-По словам ребят они получили бесценный опыт и полезные знания.
 
 Организаторы: Назарбаев университет и университет Крэнфилд. Партнеры:
 Национальный перевозчик Air Astana и Корпоративный фонд «Samruk – Kazyna Trust».
@@ -150,6 +148,35 @@ cover: "../assets/images/human-capital/cover.jpg"
 </div></div>
 
 
+### Jas Qalam
+
+**Молодежный проект «Jas Qalam», направленный на развитие казахстанской журналистики, содействие повышению профессионализма молодых журналистов** подошел к своему завершению.
+
+Форум собрал более 100 представителей молодежи в возрасте от 14 до 29 лет. Это молодые действующие журналисты, студенты факультетов журналистики, а также те, кто проявляет интерес к медиа-сфере. Всех их объединяет желание узнать о трендах в журналистике, форматах и приемах качественной подачи телевизионного/печатного материала.
+
+Этому заключительному мероприятию предшествовала серия форумов, проведенных в городах Алматы, Тараз и Семей.
+Участниками региональных форумов стали свыше 500 молодых людей. Для них были организованы мастер-классы, тренинги известных представителей масс-медиа.
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/jas-qalam-gallery/9.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
+
 ### Международный форум молодых учёных «Burabay Forum»
 
 С 8 по 10 августа в городе Астана и в Акмолинской области прошел II
@@ -192,15 +219,9 @@ cover: "../assets/images/human-capital/cover.jpg"
 
 **В Петропавловске и Шалкар-Имантауской курортной зоне обсудили перспективы развития туристского потенциала приграничных территорий Казахстана и России. Мероприятие стало логическим продолжением Burabay Forum, на котором летом текущего года молодые ученые из стран СНГ и Европы обсуждали вопросы трансграничного сотрудничества в сфере науки, образования и туризма.**
 
-В Северо-Казахстанский государственный университет им. М. Козыбаева при поддержке Фонда Первого Президента РК – Елбасы организовал Международный Симпозиум молодых ученых «Кызылжар-2018» по развитию туризма приграничных и пограничных территорий в рамках Форума приграничных территорий Казахстана и России с участием Президентов двух стран, который состоится 9 ноября 2018 г. Несколько дней молодые ученые обсуждали существующие и потенциальные возможности использования туристского потенциала приграничных территорий, включающих обширные равнинные и горные территории, морские и речные участки.
-
-Развивать взаимодействие Казахстана и России молодые ученые решили по направлениям географии и экономики туризма.  Участниками казахстанско-российского Симпозиума стали 30 молодых ученых в возрасте до 40 лет.
-
-В рамках Симпозиума состоялась встреча его участников с руководителями государственных органов власти и общественных объединений Республики Казахстан.
-
 Молодые ученые Казахстана и России изучили механизмы сотрудничества приграничных территорий двух стран и обсудили возможности не разграничения и разъединения, а интеграции приграничных территорий, синергии совместного взаимодействия в области развития туризма.
 
-Воплотить задуманное в жизнь участникам Симпозиума «Кызылжар-2018» помогла поездка в Айыртауский район Северо-Казахстанской области, где, наряду со знакомством с музейно-археологическими объектами, им были представлены зарождающийся современный туристский кластер с современным горнолыжным курортом, ориентированный, прежде всего, на жителей и гостей нашей столицы. Руководство района представило участникам Симпозиума свою концепцию развития туристской индустрии в свете Государственной программы развития туризма Республики Казахстан до 2023 г.
+В рамках Симпозиума состоялась встреча его участников с руководителями госыударственных органов власти и общественных объединений Республики Казахстан.
 
 
 ### III Baikonyr Short Film Festival
@@ -209,7 +230,7 @@ cover: "../assets/images/human-capital/cover.jpg"
 
 «Baikonyr Short Film» Festival» создан, чтобы поддержать молодых кинематографистов и развития казахстанской киноиндустрии. В этом году кинофестиваль проводился в третий раз.
 
-Программа «Baikonyr Short Film Festival» состоял из конкурсных и внеконкурсных показов. Правом обладать статуэткой могли только казахстанские кинематографисты. Прием заявок на участие в фестивале завершился 31 августа 2018 года. В этом году подали 195 заявок на участие. Однако прошли только 47 работ.Работы молодых номинантов оценивали известные актеры и режиссёры. Среди них: кинокритик, член FIPRESCI и NETPAC, член Союза кинематографистов Кыргызстана - Гульбара Толомушова, актриса Аружан Джазильбекова, продюсер и актриса Баян Алагузова, режиссер и сценарист Адай Абельдинов, продюсер и режиссер Нуртас Адамбай, режиссер Баймурат Жуманов, режиссер Катерина Суворова и звукорежиссер Денис Коноплев.
+Программа «Baikonyr Short Film Festival» состоял из конкурсных и внеконкурсных показов. Правом обладать статуэткой могли только казахстанские кинематографисты. В этом году подали **195** заявок на участие. Однако прошли только **47** работ. Работы молодых номинантов оценивали известные актеры и режиссёры.
 
 <div class="carousel" markdown="1"><div class="carousel-holder">
 <div class="swiper-container">
@@ -219,6 +240,41 @@ cover: "../assets/images/human-capital/cover.jpg"
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/baikonyr-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/baikonyr-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/human-capital/baikonyr-gallery/4.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
+
+### Международный фестиваль «ЖасSTAR»
+
+Фестиваль «ЖасSTAR» - крупнейшее образовательно-культурное событие для студентов творческих специальностей и активной молодёжи. За девятилетнюю историю своего существования проект Фонда стал поистине уникальной площадкой для взаимодействия и обмена опытом между признанными деятелями культуры и искусства с перспективной творческой молодёжью Казахстана.
+
+Почетными гостями на открытии IX Международного фестиваля творческой молодёжи «ЖасSTAR» стали: советский и казахский актер театра и кино, режиссер, сценарист, педагог – легендарный **Асанали Ашимов**, народная артистка Казахстана - **Нагима Ескалиева**, заслуженный деятель Республики Казахстан - **Асылбек Енсепов**, музыкант **Жамиля Серкебаева**, казахстанский эстрадный певец — **Медеу Арынбаев**.
+
+Всемирно известный фигурист **Алексей Ягудин** стал одним из главных гостей Фестиваля.  В этом году Фонд Первого Президента совместно с «Фондом Дениса Тен» организовал мастер-класс в рамках проекта <span class="korinna">«Биікке ұмтыл»</span> со знаменитым спортсменом.
+
+Десятидневный фестиваль творческой молодёжи «ЖасSTAR» завершился самым культовым балетом планеты «Лебединое озеро».
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/6.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/7.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/8.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/9.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/10.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/11.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/12.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/13.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/human-capital/zhastar-gallery/14.jpg)"></div>
 </div>
 
 <div class="swiper-pagination"></div>
