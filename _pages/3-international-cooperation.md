@@ -106,7 +106,6 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/jpn-gallery/4.jpg)"></div>
@@ -141,11 +140,11 @@ cover: "../assets/images/international-cooperation/cover.jpg"
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/2.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/4.jpg)"></div>
-<div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/5.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/6.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/7.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/international-cooperation/un-gallery/8.jpg)"></div>

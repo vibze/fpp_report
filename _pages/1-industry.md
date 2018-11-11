@@ -168,8 +168,8 @@ IT-индустрии и крупные компании.**
 <div class="swiper-container">
 
 <div class="swiper-wrapper">
-<div class="swiper-slide" style="background-image: url(../assets/images/industry/nasa/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/industry/nasa/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/industry/nasa/1.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/industry/nasa/3.jpg)"></div>
 <div class="swiper-slide" style="background-image: url(../assets/images/industry/nasa/4.jpg)"></div>
 </div>

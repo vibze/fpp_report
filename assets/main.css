@@ -67,8 +67,8 @@ h2 {
 
 h3 {
   font-weight: bold;
-  font-size: 28px;
-  margin: 40px 0 10px;
+  font-size: 32px;
+  margin: 60px 0 10px;
 }
 
 h4 {
@@ -249,10 +249,6 @@ header .righty {
   margin-right: -140px;
 }
 
-.expandable-content {
-  display: none;
-}
-
 .body img, .body video {
   display: block;
   margin: 20px auto 5px;
@@ -268,7 +264,7 @@ header .righty {
 }
 
 span.korinna {
-  font-family: Korinna;
+  font-family: Arial;
 }
 
 .expand {

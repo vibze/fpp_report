@@ -2,7 +2,7 @@
 layout: page
 title:  "Информационная и аналитическая деятельность"
 thumb: "assets/images/analytics/thumb.jpg"
-cover: "../assets/images/7-cover.jpg"
+cover: "../assets/images/analytics/cover.jpg"
 cut: "За отчетный период Институтом мировой экономики и политики подготовлено 20 информационно-аналитических материалов на имя Главы государства. Эксперты Института приняли участие в 27 мероприятиях научно-экспертных структур и организаций."
 ---
 
@@ -40,5 +40,22 @@ cut: "За отчетный период Институтом мировой э�
 В июне ИМЭП выступил организатором **XIII заседания форума ШОС в Астане**, собравшего ведущие мозговые центры стран ШОС, включая Индию и Пакистан. В форуме приняли участие **более 100** экспертов и официальных лиц.
 
 Кроме того, в ходе визита в США установлены контакты с ведущими **американскими think-tank** такими как: Институт Брукингса, Центра стратегических и международных исследований (CSIS), Центр им. Вильсона, Корпорация RAND, Фонд Карнеги и другими аналитическими центрами.
+
+<div class="carousel" markdown="1"><div class="carousel-holder">
+<div class="swiper-container">
+
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(../assets/images/analytics/iwep-gallery/1.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/analytics/iwep-gallery/2.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/analytics/iwep-gallery/3.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/analytics/iwep-gallery/4.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/analytics/iwep-gallery/5.jpg)"></div>
+<div class="swiper-slide" style="background-image: url(../assets/images/analytics/iwep-gallery/6.jpg)"></div>
+</div>
+
+<div class="swiper-pagination"></div>
+</div>
+</div></div>
+
 
 </div>
